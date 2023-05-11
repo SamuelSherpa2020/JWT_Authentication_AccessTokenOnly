@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTutorial", "JWTTutorial\JWTTutorial.csproj", "{C956EB77-0A7B-44F2-8DC7-B45634834816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAuthentication", "TestAuthentication\TestAuthentication.csproj", "{9FD99EEE-7FC0-47AC-A01B-B03B7EDAC5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C956EB77-0A7B-44F2-8DC7-B45634834816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C956EB77-0A7B-44F2-8DC7-B45634834816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C956EB77-0A7B-44F2-8DC7-B45634834816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C956EB77-0A7B-44F2-8DC7-B45634834816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD99EEE-7FC0-47AC-A01B-B03B7EDAC5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD99EEE-7FC0-47AC-A01B-B03B7EDAC5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD99EEE-7FC0-47AC-A01B-B03B7EDAC5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD99EEE-7FC0-47AC-A01B-B03B7EDAC5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E4F7AC-6E05-4A9C-A39B-F50241951FD7}
+	EndGlobalSection
+EndGlobal
